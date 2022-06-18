@@ -12,7 +12,7 @@
         android:layout_height="201dp"
         android:fontFamily="sans-serif-condensed-light"
         android:text=""
-        android:textAlignment="textEnd"
+        android:textAlignment="center"
         android:textSize="20sp"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toTopOf="@+id/guideline8"
